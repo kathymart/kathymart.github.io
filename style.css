@@ -1,0 +1,27 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: lightpink;
+}
+
+h1{
+  text-align: center;
+  color: ghostwhite;
+}
+
+p {
+  text-align: center
+}
+
+div {
+  width: calc(   (100% / 3) - 0px    ); 
+  float: left;
+  border: 1px;
+  padding: 0px 0px 20px 0px;
+}
+
+
+
